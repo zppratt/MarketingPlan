@@ -1,9 +1,14 @@
 \contentsline {section}{\numberline {1}Executive Summary}{3}
 \contentsline {section}{\numberline {2}Situation Analysis}{3}
-\contentsline {subsection}{\numberline {2.1}SWOT Analysis}{3}
+\contentsline {subsection}{\numberline {2.1}SWOT Analysis}{4}
+\contentsline {subsection}{\numberline {2.2}Industry Analysis: Trends in Mobile Food Venues}{4}
+\contentsline {subsection}{\numberline {2.3}Competitor Analysis: Local Food Trucks}{4}
+\contentsline {subsection}{\numberline {2.4}Company Analysis}{4}
+\contentsline {subsection}{\numberline {2.5}Customer Analysis}{4}
+\contentsline {subsubsection}{\numberline {2.5.1}Customer Characteristics}{4}
+\contentsline {subsubsection}{\numberline {2.5.2}Health and Nutrition Concerns}{4}
 \contentsline {section}{\numberline {3}Market-Product Focus}{4}
-\contentsline {section}{\numberline {4}Marketing Program Strategy and Tactics}{4}
-\contentsline {section}{\numberline {5}Financial Projections}{4}
-\contentsline {section}{\numberline {6}Implementation Plan}{4}
-\contentsline {section}{\numberline {7}Evaluation}{4}
-\contentsline {section}{Appendices}{6}
+\contentsline {section}{\numberline {4}Marketing Program Strategy and Tactics}{6}
+\contentsline {section}{\numberline {5}Financial Projections}{8}
+\contentsline {section}{\numberline {6}Implementation Plan}{9}
+\contentsline {section}{\numberline {7}Evaluation}{11}
