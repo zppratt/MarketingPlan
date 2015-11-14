@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.16 (MiKTeX 2.9) (preloaded format=pdflatex 2015.10.4)  14 NOV 2015 14:51
+This is pdfTeX, Version 3.14159265-2.6-1.40.16 (MiKTeX 2.9) (preloaded format=pdflatex 2015.10.4)  14 NOV 2015 16:43
 entering extended mode
 **VegToGo.tex
 (VegToGo.tex
@@ -236,99 +236,98 @@ LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <14.4> on input line 26.
 LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <12> on input line 26.
-LaTeX Font Info:    Try loading font information for OMS+cmr on input line 26.
- ("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\base\omscmr.fd"
-File: omscmr.fd 2014/09/29 v2.5h Standard LaTeX font definitions
-)
-LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <14.4> not available
-(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 26.
 LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <7> on input line 26.
-[2] (VegToGo.toc
+ [2] (VegToGo.toc
 LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <8> on input line 1.
 LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <6> on input line 1.
 )
 \tf@toc=\write3
- [3] <images/SWOT.png, id=19, 374.14781pt x 446.41782pt>
+ [3]
+<images/SWOT.png, id=18, 374.14781pt x 446.41782pt>
 File: images/SWOT.png Graphic file (type png)
-
-<use images/SWOT.png>
+ <use images/SWOT.png>
 Package pdftex.def Info: images/SWOT.png used on input line 53.
 (pdftex.def)             Requested size: 374.14688pt x 446.41672pt.
- [4] [5 <./images/SWOT.png>] [6] [7] [8]
+
+[4] [5 <./images/SWOT.png>] [6] [7] [8]
+LaTeX Font Info:    Try loading font information for OMS+cmr on input line 92.
+
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\base\omscmr.fd"
+File: omscmr.fd 2014/09/29 v2.5h Standard LaTeX font definitions
+)
 LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <12> not available
-(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 89.
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 92.
  [9] [10]
-<images/SalesAndExpenses.png, id=44, 542.77782pt x 364.36125pt>
+<images/SalesAndExpenses.png, id=45, 542.77782pt x 364.36125pt>
 File: images/SalesAndExpenses.png Graphic file (type png)
 
 <use images/SalesAndExpenses.png>
-Package pdftex.def Info: images/SalesAndExpenses.png used on input line 110.
+Package pdftex.def Info: images/SalesAndExpenses.png used on input line 127.
 (pdftex.def)             Requested size: 469.75502pt x 315.35161pt.
-
-<images/SalesNumbers.png, id=45, 840.89156pt x 166.37157pt>
+ [11]
+<images/SalesNumbers.png, id=49, 840.89156pt x 166.37157pt>
 File: images/SalesNumbers.png Graphic file (type png)
 
 <use images/SalesNumbers.png>
-Package pdftex.def Info: images/SalesNumbers.png used on input line 116.
+Package pdftex.def Info: images/SalesNumbers.png used on input line 133.
 (pdftex.def)             Requested size: 469.75502pt x 92.94148pt.
- [11 <./images/SalesAndExpenses.png>]
-<images/ExpensesNumbers.png, id=49, 840.89156pt x 136.25906pt>
+
+<images/ExpensesNumbers.png, id=50, 840.89156pt x 136.25906pt>
 File: images/ExpensesNumbers.png Graphic file (type png)
 
 <use images/ExpensesNumbers.png>
-Package pdftex.def Info: images/ExpensesNumbers.png used on input line 121.
+Package pdftex.def Info: images/ExpensesNumbers.png used on input line 138.
 (pdftex.def)             Requested size: 469.75502pt x 76.11949pt.
-
-<images/TotalProfitNumbers.png, id=50, 840.89156pt x 15.80907pt>
+ [12 <./images/SalesAndExpenses.png> <./images/SalesNumbers.png>]
+<images/TotalProfitNumbers.png, id=54, 840.89156pt x 15.80907pt>
 File: images/TotalProfitNumbers.png Graphic file (type png)
 
 <use images/TotalProfitNumbers.png>
-Package pdftex.def Info: images/TotalProfitNumbers.png used on input line 126.
+Package pdftex.def Info: images/TotalProfitNumbers.png used on input line 143.
 (pdftex.def)             Requested size: 469.75502pt x 8.83153pt.
 
-<images/TotalProfit.png, id=51, 543.53062pt x 328.22626pt>
+<images/TotalProfit.png, id=55, 543.53062pt x 328.22626pt>
 File: images/TotalProfit.png Graphic file (type png)
 
 <use images/TotalProfit.png>
-Package pdftex.def Info: images/TotalProfit.png used on input line 131.
+Package pdftex.def Info: images/TotalProfit.png used on input line 148.
 (pdftex.def)             Requested size: 469.75502pt x 283.68643pt.
- [12 <./images/SalesNumbers.png> <./images/ExpensesNumbers.png> <./images/Total
-ProfitNumbers.png> <./images/TotalProfit.png>]
-[13] [14]
-Underfull \hbox (badness 1231) in paragraph at lines 157--158
-\OT1/cmr/m/n/12 from http://www.pastemagazine.com/articles/2015/02/food-truck-n
-ation-tracking-the-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 161--162
+ [13 <./images/ExpensesNumbers.png> <./images/TotalProfitNumbers.png> <./images
+/TotalProfit.png>] [14] [15]
+Underfull \hbox (badness 10000) in paragraph at lines 173--174
 []\OT1/cmr/m/n/12 Average Re-tail Food and En-ergy Prices, U.S. and Mid-west Re
 -gion.
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 161--162
+Underfull \hbox (badness 10000) in paragraph at lines 173--174
 \OT1/cmr/m/n/12 (n.d.). Re-trieved Novem-ber 14, 2015, from http://www.bls.gov/
 regions/mid-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 163--164
+Underfull \hbox (badness 1231) in paragraph at lines 175--176
+\OT1/cmr/m/n/12 from http://www.pastemagazine.com/articles/2015/02/food-truck-n
+ation-tracking-the-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 183--184
 []\OT1/cmr/m/n/12 Nutrition Facts. Re-trieved Novem-ber 14, 2015, from
  []
 
-[15] (VegToGo.aux) ) 
+[16] (VegToGo.aux) ) 
 Here is how much of TeX's memory you used:
- 2157 strings out of 493673
- 30528 string characters out of 3141533
- 95288 words of memory out of 3000000
- 5492 multiletter control sequences out of 15000+200000
- 9782 words of font info for 34 fonts, out of 3000000 for 9000
+ 2162 strings out of 493673
+ 30585 string characters out of 3141533
+ 95294 words of memory out of 3000000
+ 5496 multiletter control sequences out of 15000+200000
+ 10129 words of font info for 35 fonts, out of 3000000 for 9000
  1025 hyphenation exceptions out of 8191
- 27i,9n,32p,779b,255s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 27i,7n,32p,779b,228s stack positions out of 5000i,500n,10000p,200000b,50000s
 <C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfo
 nts/cm/cmbx12.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfont
 s/cm/cmbxti10.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfont
@@ -336,10 +335,11 @@ s/cm/cmr10.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/c
 m/cmr12.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/c
 mr17.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr8
 .pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy10.p
-fb>
-Output written on VegToGo.pdf (15 pages, 214019 bytes).
+fb><C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmti12.pfb
+>
+Output written on VegToGo.pdf (16 pages, 228765 bytes).
 PDF statistics:
- 88 PDF objects out of 1000 (max. 8388607)
+ 95 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
  36 words of extra memory for PDF output out of 10000 (max. 10000000)
 

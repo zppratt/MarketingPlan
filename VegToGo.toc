@@ -3,21 +3,20 @@
 \contentsline {subsection}{\numberline {2.1}SWOT Analysis}{5}
 \contentsline {subsection}{\numberline {2.2}Industry Analysis: Trends in Mobile Food Venues}{6}
 \contentsline {subsection}{\numberline {2.3}Competitor Analysis: Local Food Trucks}{6}
-\contentsline {subsection}{\numberline {2.4}Company Analysis}{6}
-\contentsline {subsection}{\numberline {2.5}Customer Analysis}{6}
-\contentsline {subsubsection}{\numberline {2.5.1}Customer Characteristics}{6}
-\contentsline {subsubsection}{\numberline {2.5.2}Health and Nutrition Concerns}{7}
+\contentsline {subsection}{\numberline {2.4}Customer Analysis}{6}
+\contentsline {subsubsection}{\numberline {2.4.1}Customer Characteristics}{6}
+\contentsline {subsubsection}{\numberline {2.4.2}Health and Nutrition Concerns}{7}
 \contentsline {section}{\numberline {3}Market-Product Focus}{7}
 \contentsline {subsection}{\numberline {3.1}Marketing and Product Objectives}{8}
 \contentsline {subsubsection}{\numberline {3.1.1}Target Markets}{8}
-\contentsline {subsubsection}{\numberline {3.1.2}Points of Difference}{8}
+\contentsline {subsubsection}{\numberline {3.1.2}Points of Difference}{9}
 \contentsline {subsubsection}{\numberline {3.1.3}Positioning}{9}
 \contentsline {section}{\numberline {4}Marketing Program Strategy and Tactics}{9}
 \contentsline {subsection}{\numberline {4.1}Product Strategy}{9}
 \contentsline {subsection}{\numberline {4.2}Price Strategy}{10}
 \contentsline {subsection}{\numberline {4.3}Promotion Strategy}{10}
-\contentsline {subsection}{\numberline {4.4}Place (Distribution) Strategy}{10}
-\contentsline {section}{\numberline {5}Financial Projections}{11}
-\contentsline {subsection}{\numberline {5.1}Three-Year Projections}{11}
+\contentsline {subsection}{\numberline {4.4}Place (Distribution) Strategy}{11}
+\contentsline {section}{\numberline {5}Financial Projections}{12}
+\contentsline {subsection}{\numberline {5.1}Three-Year Projections}{12}
 \contentsline {section}{\numberline {6}Implementation Plan}{13}
-\contentsline {section}{\numberline {7}Evaluation}{13}
+\contentsline {section}{\numberline {7}Evaluation}{14}
