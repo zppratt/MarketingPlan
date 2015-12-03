@@ -18,3 +18,4 @@
 \contentsline {section}{\numberline {5}Financial Projections}{12}
 \contentsline {subsection}{\numberline {5.1}Three-Year Projections}{12}
 \contentsline {section}{\numberline {6}Implementation Plan}{14}
+\contentsline {section}{\numberline {7}Evaluation}{15}
